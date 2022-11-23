@@ -1,0 +1,2 @@
+/Users/leegangju/Downloads/github/MINT64/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leegangju/Downloads/github/MINT64/cmake-build-debug/CMakeFiles/rebuild_cache.dir
