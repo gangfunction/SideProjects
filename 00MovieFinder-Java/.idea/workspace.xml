@@ -5,97 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1580b087-3e95-4095-9dbb-cd0981799ee2" name="변경" comment="replaced">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/MysqlDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01BootsCamp-ML/01BootsCamp-ML.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/1f192a4c-2d05-42c9-8f38-17d2746fe190.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1f192a4c-2d05-42c9-8f38-17d2746fe190.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/MovidFinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MovidFinder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/DBConnector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/DaoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/AutoBReset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/AutoBReset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/AutoMReset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/AutoMReset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/adminMemberDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/adminMemberDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/adminMemberEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/adminMemberEdit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/adminMemberList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/adminMemberList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/adminMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/adminMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/adminMovieDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/adminMovieDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/admin/adminMovieList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/admin/adminMovieList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/accessProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/accessProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/adCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/adCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/loginCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/loginCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/loginInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/loginInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/loginProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/loginProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/loginSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/loginSave.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/loginUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/loginUpdate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/logoutProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/logoutProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/login/logoutUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/login/logoutUpdate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/member/idCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/member/idCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/member/memberWatched.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/member/memberWatched.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/member/memberWatchedSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/member/memberWatchedSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/movie/deleteReserveList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/movie/deleteReserveList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/movie/initialProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/movie/initialProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/movie/movieInsertList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/movie/movieInsertList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/movie/movieResetLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/movie/movieResetLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/movie/movieSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/movie/movieSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/myPage/memberDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/myPage/memberDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/myPage/memberEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/myPage/memberEdit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/myPage/memberReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/myPage/memberReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/myPage/myPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/myPage/myPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/register/adminCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/register/adminCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/register/memberInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/register/memberInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/register/memberRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/register/memberRegister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/register/regProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/register/regProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/movieCanUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/movieCanUpdate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/moviePointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/moviePointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/resCanProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/resCanProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/resCanSeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/resCanSeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/resShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/resShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/seatCancelUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/seatCancelUpdate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/rescan/seatReplaceCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/rescan/seatReplaceCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/Chair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/Seats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/Seats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/audienceForMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/audienceForMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/movieForAudience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/movieForAudience.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/movieList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/movieList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/movieReserve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/movieReserve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/resProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/resProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatEdit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatExist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatExist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatReserve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatReserve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatSelectPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatSelectPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reserve/seatShowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reserve/seatShowing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewInsert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dao/reviewPage/reviewUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewUpdate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dto/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dto/movieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/movieDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/dto/seatDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/seatDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/service/PageorRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/PageorRegister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/service/movieDeleteList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/movieDeleteList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/src/service/serviceMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/serviceMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovidFinder/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieFinder_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieFinder_JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01BootsCamp-ML/7조_Machine_Learning_From_Hell_(MLFH)-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../01BootsCamp-ML/7조_Machine_Learning_From_Hell_(MLFH)-final.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01BootsCamp-ML/7조_Machine_Learning_From_Hell_(MLFH).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../01BootsCamp-ML/7조_Machine_Learning_From_Hell_(MLFH).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/MysqlDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/MysqlDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +64,8 @@
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "965fae4362e7a85030b18f3c4ca4717e"
+    "spring.configuration.checksum": "965fae4362e7a85030b18f3c4ca4717e",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -195,7 +109,10 @@
       <workItem from="1657620334092" duration="52000" />
       <workItem from="1657789815952" duration="1747000" />
       <workItem from="1657939941721" duration="16000" />
-      <workItem from="1669218304982" duration="3463000" />
+      <workItem from="1669218304982" duration="6559000" />
+      <workItem from="1669939359793" duration="481000" />
+      <workItem from="1669941571103" duration="369000" />
+      <workItem from="1671518338761" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="replaced">
       <created>1657510297734</created>

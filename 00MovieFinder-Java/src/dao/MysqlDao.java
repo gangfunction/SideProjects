@@ -15,7 +15,7 @@ public class MysqlDao {
         }
         Connection conn = null;
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test", "root", "123456");
+            conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/finalwork", "root", "12341234");
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
