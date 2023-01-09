@@ -1,5 +1,4 @@
 import dao.movie.initialProcess;
-import lombok.extern.slf4j.Slf4j;
 import service.serviceMenu;
 
 import java.sql.SQLException;
