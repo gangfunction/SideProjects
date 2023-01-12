@@ -13,6 +13,7 @@ public class reviewMenu {
         System.out.println("1. 게시판 출력 2. 게시판 입력 3. 게시판 수정 4. 게시판 삭제 5. 종료");
         Scanner sc = new Scanner(System.in);
 
+
         //입력받은 번호에 따라 처리
         int num = sc.nextInt();
         switch (num) {

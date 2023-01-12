@@ -2,6 +2,8 @@ package dao.movie;
 
 import service.movieDeleteList;
 
+import java.sql.SQLException;
+
 public class Setting {
 
     private Setting() {
@@ -43,7 +45,11 @@ public class Setting {
     }
 
     static {
-        new movieDeleteList();
+        try {
+            new movieDeleteList();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
         new deleteReserveList();
         new movieResetLogin();
         new movieInsertList();

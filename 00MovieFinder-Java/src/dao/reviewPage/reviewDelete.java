@@ -9,10 +9,11 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class reviewDelete{
-    protected reviewDelete() {
+    reviewDelete() {
         System.out.println("영화리뷰 삭제");
-        Scanner sc = new Scanner(System.in);
         System.out.println("삭제하실 리뷰의 번호를 입력하세요");
+
+        Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         Connection conn = MysqlDao.getConnection();
         String sql = "delete from review where num = ?";

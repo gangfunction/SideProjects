@@ -1,6 +1,6 @@
 package dao.myPage;
 
-import dao.rescan.resShow;
+import dao.rescan.reservationShow;
 import service.serviceMenu;
 
 import java.sql.SQLException;
@@ -15,7 +15,7 @@ public class myPage {
         switch (select) {
             case 1 -> new memberEdit();
             case 2 -> new memberDelete();
-            case 3 -> new resShow();
+            case 3 -> new reservationShow();
             case 4 -> new memberReview();
             default -> System.out.println("잘못된 입력");
         }

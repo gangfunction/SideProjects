@@ -6,7 +6,7 @@ import java.sql.*;
 import java.util.Objects;
 
 public class movieDeleteList{
-    public movieDeleteList() {
+    public movieDeleteList() throws SQLException {
         try {
             PreparedStatement stmt;
             Connection conn = MysqlDao.getConnection();
@@ -19,7 +19,7 @@ public class movieDeleteList{
                 System.out.println();
             }
         } catch (SQLException e) {
-            throw new RuntimeException(e);
+            throw e;
         }
     }
 }
