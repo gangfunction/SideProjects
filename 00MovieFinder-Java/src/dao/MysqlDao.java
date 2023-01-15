@@ -8,18 +8,18 @@ public class MysqlDao {
 
     };
     public static Connection getConnection() {
+        Connection conn = null;
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
-        Connection conn = null;
         try {
             conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/finalwork", "root", "12341234");
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
-            if (conn != null) {
+            if (conn == null) {
                 try {
                     conn.close();
                     System.out.println("closed");

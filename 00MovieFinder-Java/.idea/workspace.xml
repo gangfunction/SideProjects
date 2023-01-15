@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1580b087-3e95-4095-9dbb-cd0981799ee2" name="변경" comment="replaced" />
+    <list default="true" id="1580b087-3e95-4095-9dbb-cd0981799ee2" name="변경" comment="replaced">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1f192a4c-2d05-42c9-8f38-17d2746fe190.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1f192a4c-2d05-42c9-8f38-17d2746fe190.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/MysqlDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/MysqlDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/reviewPage/reviewUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/reviewPage/reviewUpdate.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +66,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.language",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "spring.configuration.checksum": "965fae4362e7a85030b18f3c4ca4717e",
     "vue.rearranger.settings.migration": "true"
   },
@@ -111,6 +119,7 @@
       <workItem from="1671518338761" duration="54000" />
       <workItem from="1673246642716" duration="11174000" />
       <workItem from="1673364460252" duration="6446000" />
+      <workItem from="1673499081486" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="replaced">
       <created>1657510297734</created>
@@ -142,6 +151,16 @@
     </ignored-roots>
     <MESSAGE value="replaced" />
     <option name="LAST_COMMIT_MESSAGE" value="replaced" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
